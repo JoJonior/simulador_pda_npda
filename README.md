@@ -9,5 +9,13 @@
 ## NPDA: L = { aⁿbⁿcᵐ | m,n ≥ 1 } ∪ { aⁿbᵐcᵐ | m,n ≥ 1 }
 <img width="656" height="286" alt="image" src="https://github.com/user-attachments/assets/827e3d32-1caa-491f-af4a-d219f40b298c" />
 
+# Instalação
+* com CMD: python -m venv .venv
+* .venv\Scripts\activate
+* pip install -r "requirements.txt"
+
+# Execução:
+* streamlit run app2.py
+
 
 

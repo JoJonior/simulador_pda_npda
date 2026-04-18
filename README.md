@@ -17,5 +17,14 @@
 # Execução:
 * streamlit run app2.py
 
+# Tecnologias
+<p align="center">
+  <a>
+    <img width="64" src="https://skillicons.dev/icons?i=py" />
+    <img width="64"  src="https://github.com/user-attachments/assets/9153373a-2f8f-491b-a4b7-d6f1e3504d0f" />
+  </a>
+</p>
+
+
 
 
